@@ -1,7 +1,7 @@
 ## Olá! Me chamo Wagner Teófilo 👋
 
 - 🔭 Atualmente trabalho como estagiário de Desenvolvimento na **SEMGE**
-- 🌱 Estudando **Laravel, PHP e desenvolvimento de aplicações e sistemas**
+- 🌱 Estudando **Laravel, PHP, MySql e desenvolvimento de aplicações e sistemas**
 - 💬 Aberto a colaborar em **projetos e soluções de software**
 - ⚡ Sempre buscando evoluir **1% a cada dia**
 
