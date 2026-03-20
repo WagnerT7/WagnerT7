@@ -1,6 +1,6 @@
 # Olá! Me chamo Wagner Teófilo 👋
 
-- 📊 Transicionando para Análise de Dados e Business Intelligence
+- 📊 Data Analyst & BI | Python • SQL • Power BI • ML | Back-End Dev Background
 - 💻 Background em Desenvolvimento Back-End (PHP, Laravel, MySQL)
 - 🐍 Estudando Python para Dados, SQL avançado e Power BI
 - 🎯 Buscando minha primeira oportunidade como Analista de Dados / Analista de BI
@@ -10,7 +10,7 @@
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/wagner-teofilo/](https://www.linkedin.com/in/wagner-te%C3%B3filo/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-te%C3%B3filo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagnerteofilo.dev@outlook.com)
 
 ---
