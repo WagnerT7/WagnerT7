@@ -1,8 +1,9 @@
 # Olá! Me chamo Wagner Teófilo 👋
 
 💻 Data Analyst & BI  
-🐍 Python • SQL • Power BI  
-🤖 Machine Learning • NLP • APIs • Streamlit  
+🐍 Python • SQL • Pandas • NumPy • Scikit-learn • Streamlit  
+🤖 Machine Learning • K-Means • PCA • Time Series • Claude API  
+📊 Plotly • Matplotlib • Power BI  
 ⚙️ Backend Background with PHP/Laravel
 
 ---
