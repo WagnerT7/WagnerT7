@@ -36,6 +36,11 @@ Planned features:
 - AI-generated executive reports
 - Interactive Streamlit dashboard
 
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WagnerT7&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerT7&layout=compact&theme=tokyonight"/>
+</p>
+
 ## 💻 Background em Desenvolvimento
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
