@@ -13,13 +13,6 @@ Backend Background with PHP/Laravel
 
 ---
 
-## 📈 GitHub Stats
-
-![Wagner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WagnerT7&show_icons=true&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerT7&layout=compact&theme=tokyonight)
-
----
-
 ## 🛠️ Stack de Dados
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
