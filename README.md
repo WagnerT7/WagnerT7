@@ -48,4 +48,4 @@ Planned features:
 
 ---
 
-⚡ Building real-world Data & AI projects focused on business impact.
+Building real-world Data & AI projects focused on business impact.
