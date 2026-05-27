@@ -1,8 +1,6 @@
 # Olá! Me chamo Wagner Teófilo 👋
 
-Data Analyst & BI | Python • SQL • Power BI
-Machine Learning • NLP • APIs • Streamlit
-Backend Background with PHP/Laravel
+Data Analyst & BI | Python • SQL • Power BI Machine Learning • NLP • APIs • Streamlit Backend Background with PHP/Laravel
 
 ---
 
