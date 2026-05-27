@@ -24,7 +24,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
+## 🚀 Current Projects
+
+### 📊 Investor Behavior Analysis (In Development)
+
+Machine Learning project using CVM public data.
+
+Planned features:
+- Investor segmentation with K-Means
+- Time series forecasting
+- Risk profile prediction
+- AI-generated executive reports
+- Interactive Streamlit dashboard
 
 ## 💻 Background em Desenvolvimento
 
