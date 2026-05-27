@@ -1,10 +1,8 @@
 # Olá! Me chamo Wagner Teófilo 👋
 
-- 📊 Data Analyst & BI | Python • SQL • Power BI • ML | Back-End Dev Background
-- 💻 Background em Desenvolvimento Back-End (PHP, Laravel, MySQL)
-- 🐍 Estudando Python para Dados, SQL avançado e Power BI
-- 🎯 Buscando minha primeira oportunidade como Analista de Dados / Analista de BI
-- ⚡ Sempre buscando evoluir 1% a cada dia
+Data Analyst & BI | Python • SQL • Power BI
+Machine Learning • NLP • APIs • Streamlit
+Backend Background with PHP/Laravel
 
 ---
 
