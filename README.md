@@ -48,4 +48,4 @@ Planned features:
 
 ---
 
-Building real-world Data & AI projects focused on business impact.
+Focused on Machine Learning, AI Applications and Data Products.
